@@ -1,6 +1,11 @@
 # aws-bootstrap-scripts-awscli-ssm
 AWS bootstrap scripts (user-data) to install AWS CLI and SSM agent
 
+## AWS User data (bootstrap scripts) 
+
+* Run commands on your Linux instance at launch
+* https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html
+
 ## SSM agent install
 
 * Install AWS Systems Manager Agent (SSM Agent) on an Amazon EC2 Linux instance at launch
